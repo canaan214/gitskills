@@ -1,1 +1,1 @@
-Createing a new branch in git.
+Createing a new branch in git AND simple.
